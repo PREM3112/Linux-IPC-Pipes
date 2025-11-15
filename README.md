@@ -107,7 +107,8 @@ exit(EXIT_SUCCESS);
 
 ## OUTPUT
 
-![image](https://github.com/baskarsaraswathy/Linux-IPC-Pipes/assets/144871005/54c15dba-befc-4809-8552-e361abc847b2)
+<img width="535" height="313" alt="image" src="https://github.com/user-attachments/assets/32b5cb5e-6d75-407d-89dc-5dc5e18c5b45" />
+
 
 # RESULT:
 The program is executed successfully.
